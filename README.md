@@ -29,20 +29,20 @@ Add the dependency to your Spring Boot application.
 <dependency>
     <groupId>net.m9studio</groupId>
     <artifactId>storage-s3</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
 ### Gradle (Groovy)
 
 ```groovy
-implementation 'net.m9studio:storage-s3:1.0.0'
+implementation 'net.m9studio:storage-s3:1.0.1'
 ```
 
 ### Gradle (Kotlin)
 
 ```kotlin
-implementation("net.m9studio:storage-s3:1.0.0")
+implementation("net.m9studio:storage-s3:1.0.1")
 ```
 
 ---
